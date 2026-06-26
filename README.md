@@ -103,7 +103,7 @@ Hi! I'm **Cheerla Sai Laasya Priya** — a passionate **Full Stack Developer** w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laasya8&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Laasya8&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
