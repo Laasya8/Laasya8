@@ -99,12 +99,27 @@ Hi! I'm **Cheerla Sai Laasya Priya** — a passionate **Full Stack Developer** w
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- SECTION F: GITHUB ACHIEVEMENTS -->
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Laasya8&theme=darkhub&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-0075ca?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/🌊%20YOLO-ff6900?style=for-the-badge&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/🏹%20Quickdraw-6e40c9?style=for-the-badge&logoColor=white)
+![Pair Extraordinaire](https://img.shields.io/badge/👯%20Pair%20Extraordinaire-ea6045?style=for-the-badge&logoColor=white)
+
+</div>
+
+<div align="center">
+<br/>
+
+| 🎖️ Achievement | 📋 Description |
+|:---|:---|
+| 🦈 **Pull Shark** | Opened pull requests that have been merged |
+| 🏹 **Quickdraw** | Closed an issue / PR within 5 min of opening |
+| 👯 **Pair Extraordinaire** | Co-authored pull requests that got merged |
+| 🌊 **YOLO** | Merged a pull request without a code review |
 
 </div>
 
