@@ -1,18 +1,11 @@
-<!-- SECTION G: VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laasya8&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <h1>Hey there, I'm <span>Cheerla Sai Laasya Priya</span> 👩‍💻</h1>
+  <h1>Hey there, I'm <b>Cheerla Sai Laasya Priya</b> 👩‍💻</h1>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Java;Building+Scalable+Web+Experiences+%F0%9F%8C%90;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Content+Creator+%7C+Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Java;Building+Scalable+Web+Experiences+%F0%9F%8C%90;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,12 +17,6 @@
 
 Hi! I'm **Cheerla Sai Laasya Priya** — a passionate **Full Stack Developer** who loves building beautiful, scalable, and user-friendly web applications. I craft seamless experiences from front to back, and I believe every line of code is a chance to make something amazing.
 
-Beyond code, I love to **create content** — breaking down complex tech concepts into easy, fun stories for everyone:
-
-📺 **YouTube** — Tutorial videos, dev vlogs & tech walkthroughs  
-✍️ **Medium** — In-depth articles, dev tips & project breakdowns  
-📸 **Instagram** — Byte-sized tech content & behind-the-scenes dev life
-
 - 🔭 Always building projects that **solve real problems**
 - 💡 Obsessed with **clean code**, great UX and modern architecture
 - 🎥 Teaching tech while I learn — because sharing is growing
@@ -40,32 +27,43 @@ Beyond code, I love to **create content** — breaking down complex tech concept
 <!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend Skills" />
 
-**Backend**
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" alt="Backend Skills" />
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,git,vscode,github&theme=dark" alt="Database and Tools" />
 
-**Database & Tools**
+</div>
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 📱 Social Media & Content
+## 📱 Connect With Me
 
 <div align="center">
 
@@ -83,17 +81,21 @@ Beyond code, I love to **create content** — breaking down complex tech concept
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laasya8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laasya8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laasya8&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=888888" alt="GitHub Streak Stats" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laasya8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laasya8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laasya8&theme=tokyo-night&hide_border=true&area=true&area_color=A855F7" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
