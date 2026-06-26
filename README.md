@@ -80,17 +80,21 @@ Hi! I'm **Cheerla Sai Laasya Priya** — a passionate **Full Stack Developer** w
 <!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laasya8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A855F7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Laasya8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="GitHub Stats" />
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_radius=12" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laasya8&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&title_color=A855F7" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laasya8&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&radius=8&title_color=A855F7" alt="Contribution Graph" width="96%" />
 </div>
 
 ---
@@ -99,7 +103,7 @@ Hi! I'm **Cheerla Sai Laasya Priya** — a passionate **Full Stack Developer** w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laasya8&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Laasya8&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
