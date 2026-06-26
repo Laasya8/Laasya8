@@ -50,14 +50,6 @@ Full Stack Developer focused on building beautiful, scalable, and user-friendly 
 - 📈 &nbsp; Driven by **scalable, well-structured systems** that grow gracefully
 - 🌱 &nbsp; Sharing knowledge through teaching and writing as I keep learning
 
-<!-- Currently-building monospace ticker -->
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=%3E+Currently+building%3A+scalable+full-stack+apps;%3E+Currently+learning%3A+advanced+system+design;%3E+Currently+exploring%3A+Supabase+%26+serverless+patterns"
-    alt="Currently building ticker"
-  />
-</div>
-
 <!-- Gradient section divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:EC4899,100:06B6D4&section=header" width="100%" alt="divider" />
 
